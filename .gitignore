@@ -17,4 +17,4 @@ Thumbs.db
 uploads/
 temp/
 
-.vscode/
+.vscode/settings.json
