@@ -16,3 +16,5 @@ Thumbs.db
 # Optional: Ignore uploads or temp files
 uploads/
 temp/
+
+.vscode
